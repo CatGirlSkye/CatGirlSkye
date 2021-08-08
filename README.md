@@ -1,6 +1,6 @@
 - Hello, I'm Skye.
 - I mostly do 3d art and design.
-- Don't contact me if you don't know me, and even if you do. How the hell did you get here?
+- Don't contact me if you don't know me.
 
 <!---
 CatGirlSkye/CatGirlSkye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
